@@ -1,0 +1,176 @@
+clear
+history
+clear
+history
+clra
+clear
+ls
+ls -l
+history
+ls -l
+ls
+ls -l | cat
+clear
+ls -l > abcdef
+clear
+history
+clear
+history
+clear
+history
+ls -l > abcdef
+history
+clear
+history
+ls | cat | !1
+clear
+history
+ls | cat | !-1
+clear
+history
+ls | cat | !-1
+clear
+history
+clear
+history
+ls | cat | !-1
+history
+clear
+history
+ls | cat | !-1
+clear
+history
+clear
+history
+ls -l
+history
+clear
+history
+ls -l > abcdef
+history
+clear
+ls -l | cat | grep shell 
+clear
+history
+
+clear
+history
+
+clear
+cd
+ls
+./a.out
+ls
+exit
+./a.out
+exit
+./a.out
+exit
+./a.out
+
+./a.out
+
+clear
+
+exit
+
+exit
+./a.out
+exit
+
+./a.out
+exit
+history
+clear
+cd ..
+echo $HOME
+echo $PATH
+clear
+history
+
+history
+exit
+ls
+ls -l
+ls -l | grep shell
+clear
+history
+exit
+cd ..
+cd Shell
+history
+exit
+export x=85
+export p=8
+exit
+export x=55
+export x = 5
+export pp=999
+export ppp = 99
+export pop=999
+echo "hello"
+echo "hello" | cat
+echo "hello sadadasd" > asdsad
+clear
+echo "hello" > abcdd
+echo LLL > hh
+exit
+echo "jjj" > HOHO
+exit
+ls -l > LISTIT
+echo "jojo" > JOJO
+exit
+echo "JOJO" > JKL
+history
+clear
+exit
+echo hello
+ls | cd
+ls | cd | cat
+cd | ls
+exit
+cd | ls
+exit
+echo     "   ''''   "
+ls -l
+ls -l | grep shell
+clear
+history
+clear
+ls -l > YYYY
+cat < YYYY | cat
+
+exit
+clear
+ls -l
+ls
+ls | cat
+clear
+cat < YYYY | cat
+echo "KKK" > LLLLL
+exit
+echo "JJJJ" > PPPP
+ls -l > PPPPPP
+echo $HOME
+echo $PWD
+exit
+echo Hello > jjjjj
+exit
+echo     ' """'
+clear
+history
+clear
+ls -l
+clear
+cat < YYYY | cat
+ls -l | cat > NEWWW
+cat NEWWW
+clear
+exit
+hello
+ls
+
+clear
+ls
+ls | cat
+exit
